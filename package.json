@@ -1,7 +1,7 @@
 {
-  "name": "NFT-mint-app",
+  "name": "paperlx-smart-contract",
   "version": "1.0.0",
-  "description": "",
+  "description": "Smart contracts for Paperlx dapp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "chai": "^4.3.6",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.5.4",
-    "hardhat": "^2.9.1"
+    "hardhat": "^2.9.3"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
